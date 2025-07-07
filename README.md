@@ -12,21 +12,11 @@ This project analyzes customer reviews and classifies them into three sentiment 
 - **Frontend**: React.js
 - **Backend**: Python (Flask)
 - **NLP & ML**: Scikit-learn / NLTK / TextBlob / VADER
-- **Database**: MongoDB
-
-## 📦 Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/sentiment-analysis-app.git
-   cd sentiment-analysis-app
-
 
 **Backend**
 cd backend
 pip install -r requirements.txt
 python app.py
-
 
 **Frontend**
 cd frontend
